@@ -4,7 +4,7 @@ from polymatheia.data.reader import OAIRecordReader            # read one metada
 # e-periodica OAI-PMH Endpoint
 oai = 'https://www.e-periodica.ch/oai'
 
-# All records that have the DDC:390 (Ethnology, Fokflore) Set
+# All records that have the DDC:390 (Ethnology, Folklore) Set
 reader = OAIRecordReader(oai, metadata_prefix='oai_dc', set_spec='ddc:390')
 
 # Make lists from Dublin Core elements
