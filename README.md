@@ -15,6 +15,6 @@ There are more than 16k metadata articles which have the 390 `setSpec` (Ethnolog
 It was done thanks to the help of the ETH Library and following the instructions of the [Bern University Library's Python Digital Toolbox](https://github.com/ub-unibe-ch/ds-pytools). 
 
 # How to cite
-Raemy, J. A. (2023). e-periodica OAI-PMH - Ethnology and Folklore (Version 1.0.0) [Computer software]. https://doi.org/10.5281/zenodo.7777797
+Raemy, J. A. (2023). e-periodica OAI-PMH - Ethnology and Folklore (Version 1.0.0) [Computer software]. https://doi.org/10.5281/zenodo.7777798
 
 [![DOI](https://zenodo.org/badge/620255649.svg)](https://zenodo.org/badge/latestdoi/620255649)
