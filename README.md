@@ -7,5 +7,9 @@ There are more than 16k metadata articles which have the 390 `setSpec` (Ethnolog
 - https://www.e-periodica.ch/digbib/volumes?UID=sgv-002
 - https://www.e-periodica.ch/digbib/volumes?UID=sgv-003 
 
+## Records in CSV
+- [All records](data/records.csv)
+- [Extract (SGV)](data/sgv.csv)
+
 ## Acknowledgements
 It was done thanks to the help of the ETH Library and following the instructions of the [Bern University Library's Python Digital Toolbox](https://github.com/ub-unibe-ch/ds-pytools). 
