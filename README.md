@@ -16,4 +16,5 @@ It was done thanks to the help of the ETH Library and following the instructions
 
 # How to cite
 Raemy, J. A. (2023). e-periodica OAI-PMH - Ethnology and Folklore (Version 1.0.0) [Computer software]. https://doi.org/10.5281/zenodo.7777797
+
 [![DOI](https://zenodo.org/badge/620255649.svg)](https://zenodo.org/badge/latestdoi/620255649)
